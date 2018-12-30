@@ -1,4 +1,5 @@
 IBT Processor Arduino code and hardware.  Uses AD8313 demo board with DC amplifier & Arduino ADC input.
 Output goes to Radio Sky's "Skypipe" program via the UDS and a USB connection.
-Output also uses an Arduino anolog output to drive an analog meter.
+Output goes to an Arduino anolog output to drive an analog meter.
+Output goes to a variable pitch tone for driving a speaker.  
 Start of project in GitHub  2018 December 28
